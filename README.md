@@ -13,7 +13,7 @@ def shivaminfo():
         'Python','html','css','php','javascript'
         ]
     tools=['bootstrap','jinja']
-    askMeAbout=["Web Development"],
+    askMeAbout=["Web Development","Automation","AI"],
 
 
 ```
