@@ -7,22 +7,22 @@ Hi, my name is Shivam Singh. I am a Student at Lovely Professional University pu
 
 ## A little more about me...  
 ```python code
-def shivaminfo():       
-    pronouns='He | him'
+def Shivaminfo():       
+    Pronouns='He | him'
     Name='Shivam-Singh'
     Hobbies=[
             'Chess',
             'Watching Movies',
             'Reading Sci-Fi Novels'
             'Being up all Night chasing that ONE BUG...'
-   		     ]
-    code=[
-        'Python','Html','Html5','Css','Php','Javascript','Bash script',
-        'Batch script','Vbs script','Jquery'
-        ]
-    tools=['Bootstrap','Jinja','Nmap','Metasploit','Tor','Wireshark','Hydra','Airmon-ng','Aircrack-ng']
-    Os=['Windows','Linux','Mac OS X']
-    askMeAbout=["Full Stack Development","Automation","AI","CyberSecurity","Programming","Chess Match"]
+            ]
+    Code=  ['Python','Html','Html5','Css','Php','Javascript','Bash script',
+            'Batch script','Vbs script','Jquery']
+    Tools= ['Bootstrap','Jinja','Nmap','Metasploit','Tor','Wireshark',
+            'Hydra','Airmon-ng','Aircrack-ng']
+    System=['Windows','Linux','Mac OS X']
+    AskMeAbout=["Full Stack Development","Automation","AI","CyberSecurity",
+                "Programming","Chess Match"]
 
 
 ```
