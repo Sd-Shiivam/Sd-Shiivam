@@ -1,6 +1,5 @@
 
 <h2> Hi <img src="https://github.com/Sd-Shivam/Sd-Shivam/blob/main/Hi.gif" width="25px"> , MySelf Shivam Singh </h2>
-
 <img align='right' src='https://github.com/Sd-Shivam/Sd-Shivam/blob/main/master.png' width='200"'>
 
 Hi, my name is Shivam Singh. I am a Student at Lovely Professional University pursuing my studies in B.Tech CSE . I love to code to make my work easier and efficent , and enjoy bringing ideas into real world.Right now i am putting my efforts to gain deep knowledge of CyberSecurity,Ethical-hacking and cyber forensics. I love playing with code functions programs and Trying to creating something that makes eveyone work easier.
@@ -35,7 +34,10 @@ def Shivaminfo():
 <!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=sd--shiivam) -->
   <br>
 <!--   <img src="https://profile-counter.glitch.me/sd-shiivam/count.svg" /> -->
+
+![bar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) <br>
   <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=1075&lines=I+love+connecting+with+different+people.+so+if+you+want+to+say+hi%2C+I'll+be+happy+to+meet+you+more!+%3A)" alt="Typing SVG" /></a></div>
+  ![bar](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- - 👋 Hi, I’m Shiva
 - 👀 I’m interested in AI
