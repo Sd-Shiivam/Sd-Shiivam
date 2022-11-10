@@ -15,7 +15,7 @@ def Shivaminfo():
             'Reading Sci-Fi Novels'
             'Being up all Night chasing that ONE BUG...'
             ]
-    Code=  ['Python','Html','Html5','Css','Php','Javascript','Bash script',
+    Code=  ['Python','Html','Html5','Css','Javascript','Bash script',
             'Batch script','Vbs script','Jquery']
     Tools= ['Bootstrap','Jinja','Nmap','Metasploit','Tor','Wireshark',
             'Hydra','Airmon-ng','Aircrack-ng']
