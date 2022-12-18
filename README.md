@@ -6,13 +6,13 @@ Hi, my name is Shivam Singh. I am a Student at Lovely Professional University pu
 
 ## A little more about me...  
 ```python code
-def Shivaminfo():       
+class Developerinfo:
     Pronouns='He | him'
     Name='Shivam-Singh'
     Hobbies=[
             'Chess',
             'Watching Movies',
-            'Reading Sci-Fi Novels'
+            'Reading Sci-Fi Novels',
             'Being up all Night chasing that ONE BUG...'
             ]
     Code=  ['Python','Html','Html5','Css','Javascript','Bash script',
@@ -22,8 +22,7 @@ def Shivaminfo():
     System=['Windows','Linux','Mac OS X']
     AskMeAbout=["Full Stack Development","Automation","AI","CyberSecurity",
                 "Programming","Chess Match"]
-
-
+print(Developerinfo.Name)
 ```
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
