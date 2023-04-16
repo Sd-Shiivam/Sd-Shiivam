@@ -2,7 +2,11 @@
 <h2> Hi <img src="https://github.com/Sd-Shivam/Sd-Shivam/blob/main/Hi.gif" width="25px"> , MySelf Shivam Singh </h2>
 <img align='right' src='https://github.com/Sd-Shivam/Sd-Shivam/blob/main/master.png' width='200"'>
 
-Hi,I am Shivam Singh 😊. I am a Student at Lovely Professional University pursuing my studies in B.Tech CSE. I love to code to make my work easier and efficient and enjoy bringing ideas into real world. Right now, I am putting my efforts to gain deep knowledge of Cybersecurity, Ethical-hacking and cyber forensics. I love playing with codes, functions, programs and trying to create something that makes everyone work easier and trying to create an impact on world through coding.
+Hi, I'm Shivam Singh 😊, a passionate coder and B.Tech CSE student at Lovely Professional University. I love turning ideas into reality and making complex tasks simple through coding. My current focus is on mastering the fields of Cybersecurity, Ethical-hacking, and cyber forensics, which I believe are essential for a secure and reliable digital world.
+
+When I'm not coding, you can find me exploring new technologies and tools to enhance my skills. My ultimate goal is to create something that makes a positive impact on the world and inspires others to do the same.
+
+Feel free to check out my GitHub profile to see some of my projects and join me on my coding journey!
 
 ## A little more about me...  
 ```python code
