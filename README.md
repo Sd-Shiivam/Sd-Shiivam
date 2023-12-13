@@ -10,7 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a href="#">Shivam</a></b>
+                <b>Shivam</b>
         </samp>
 </h3>
 
