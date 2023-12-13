@@ -25,17 +25,9 @@
   </samp>
 </p>
 
-<p align="center">
 <br/>
 <hr/>
-<!--
 
-[![linkedin](https://img.shields.io/badge/sd--shiivam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sd-shiivam/) 
-[![Instagram](https://img.shields.io/badge/sd--shiivam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sd-shiivam/)
-[![Twitter](https://img.shields.io/badge/sd__shiivam-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sd_shiivam)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/KingShivamSingh#6071)
--->
-</p>
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sd-Shiivam&theme=radical" alt="Shivam GitHub Contribution"/>
