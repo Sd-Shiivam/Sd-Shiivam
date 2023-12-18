@@ -20,7 +20,7 @@
     <a _target="blank" href="https://www.google.com/search?q=Sd-Shiivam+Shivam-Singh"  >「 Google Me 」</a>  <a _target="blank" href="https://www.instagram.com/sd_shiivam/"  >「 Instagram 」</a> 
     <br>
     <br>
-    「 I am a Bug bounty Hunter from <b> INDIA </b> 」
+    「 I am a Programmer from <b> INDIA </b> 」
     <br>
     <br>
   </samp>
