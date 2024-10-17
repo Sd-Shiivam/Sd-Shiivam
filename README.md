@@ -30,7 +30,7 @@
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/sd-shiivam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sd-Shiivam&theme=radical" alt="Shivam GitHub Contribution"/>
   </a>
 </p>
